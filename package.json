@@ -23,9 +23,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://tru-abhishek@bitbucket.org/trubusiness/tru-npm-storage.git"
+    "url": "git+https://github.com/oneprohq/tru-npm-storage.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/trubusiness/tru-npm-storage#readme"
+  "homepage": "https://github.com/oneprohq/tru-npm-storage#readme"
 }
